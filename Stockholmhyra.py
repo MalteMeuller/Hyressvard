@@ -82,7 +82,7 @@ def sendit(i):
 
 
     email_sender = 'malte.meuller@gmail.com'
-    email_password = 'hzvufuiysrxbxmas'
+    email_password = 'xx'
     email_receiver = "" + str(i) + ""
     print('sending mail to:'+str(email_receiver)+'')
 
