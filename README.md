@@ -1,4 +1,4 @@
-Skapade denna koden som automatiserar att skicka ut mail till 150 av stockholms privata hyresvärdar.
-Koden skrapar dokument/hemsidor på mailadresser sen skickar ut föranpassade mail till dessa. 
-Man behöver dock tillgång till en PDF med mailadresser som jag är osäker på om man får publicera... 
+This code creates and sends out an automated email to all private landslords in Stockholm. However you need the PDF with information about landlords in Stockholm. If you have other PDF or scraping techniques then this code can be aplied. 
+
+
 
